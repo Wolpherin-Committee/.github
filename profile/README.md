@@ -10,6 +10,7 @@ When creating this platform, we consider it to be:
   - We will do NO speech control
 - Democratic
   - Everyone is FREE to deliver their advice for this platform or vote for others’ advice. We will improve this platform based on them.
+  - Our progress will be exhibited in: https://trello.com/b/LCE4HBYD/wolpherin-demandlist
 
 ## Login and Registration
 
