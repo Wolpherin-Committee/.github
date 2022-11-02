@@ -6,10 +6,10 @@ Wolpherin is a social platform that mainly served the students or alumni of WFLA
 
 When creating this platform, we consider it to be: 
 
-FREE in speech
-We will do NO speech control
-Democratic
-Everyone is FREE to deliver their advice for this platform or vote for others’ advice. We will improve this platform based on them.
+- FREE in speech
+  - We will do NO speech control
+- Democratic
+  - Everyone is FREE to deliver their advice for this platform or vote for others’ advice. We will improve this platform based on them.
 
 ## Login and Registration
 
